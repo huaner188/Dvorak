@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/fiberhome/dvorak/ResponseFutureImpl.java=UTF-8
+encoding//src/com/fiberhome/dvorak/SemaphoreReleaseOnlyOnce.java=UTF-8
+encoding//src/com/fiberhome/dvorak/netty/api/client/exception/RemotingSendRequestException.java=UTF-8
+encoding//src/com/fiberhome/dvorak/netty/api/client/exception/RemotingTooMuchRequestException.java=UTF-8
+encoding//src/com/fiberhome/dvorak/netty/client/NettyRemotingAbstract.java=UTF-8
